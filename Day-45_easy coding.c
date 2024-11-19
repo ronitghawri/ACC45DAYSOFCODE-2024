@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	// your code goes here
 	int i,t,s,z,x,y,remain;
 	scanf("%d",&t);
 	for(i=0;i<t;i++)
